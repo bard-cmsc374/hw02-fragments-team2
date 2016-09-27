@@ -1,0 +1,7 @@
+#Mon Sep 26 20:40:04 EDT 2016
+base.0=C\:\\Users\\Jason\\Documents\\GitHub\\Project1\\hw02-fragments-team2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5fd5cfce0ff94e70ddb17bf3a6e9a84dc05e3f79
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Jason\\Documents\\GitHub\\Project1\\hw02-fragments-team2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_4a05d59b91de36ef0d99efa1e5867b104b7e6e57\\classes.dex
+base.1=C\:\\Users\\Jason\\Documents\\GitHub\\Project1\\hw02-fragments-team2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_4a05d59b91de36ef0d99efa1e5867b104b7e6e57
+file.0=C\:\\Users\\Jason\\Documents\\GitHub\\Project1\\hw02-fragments-team2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5fd5cfce0ff94e70ddb17bf3a6e9a84dc05e3f79\\classes.dex
