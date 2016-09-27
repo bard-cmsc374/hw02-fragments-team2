@@ -1793,7 +1793,7 @@ containing a value of this type.
         public static final int action_mode_close_button=0x7f0a0026;
         public static final int activity_chooser_view_content=0x7f0a0027;
         public static final int add=0x7f0a0013;
-        public static final int addButton=0x7f0a0057;
+        public static final int add_button=0x7f0a0057;
         public static final int add_title=0x7f0a0055;
         public static final int alertTitle=0x7f0a0033;
         public static final int always=0x7f0a001d;

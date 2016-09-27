@@ -4,50 +4,37 @@
     density="560dpi"
     format="8"
     plugin-version="2.2.0"
-    timestamp="25330803787406"
+    timestamp="26112715052601"
     token="620452657315423857"
-    verifier="R_CLASS_CHANGE" >
+    verifier="METHOD_ADDED" >
 
     <task
         name="javac"
-        duration="618" />
+        duration="189" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="60" />
+        duration="29" />
     <task
         name="verifier"
-        duration="11" />
+        duration="4" />
 
-    <artifact
-        location="C:\Users\Jason\Documents\GitHub\Project1\hw02-fragments-team2\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-        type="RESOURCES" />
     <artifact
         location="C:\Users\Jason\Documents\GitHub\Project1\hw02-fragments-team2\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
         type="DEX" />
 
     <build
-        timestamp="24776060827101"
-        verifier="MANIFEST_FILE_CHANGE" >
+        timestamp="26046901877703"
+        verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\Jason\Documents\GitHub\Project1\hw02-fragments-team2\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="25141004242873"
-        verifier="R_CLASS_CHANGE" >
-        <artifact
-            location="C:\Users\Jason\Documents\GitHub\Project1\hw02-fragments-team2\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="25330803787406"
-        verifier="R_CLASS_CHANGE" >
-        <artifact
-            location="C:\Users\Jason\Documents\GitHub\Project1\hw02-fragments-team2\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-            type="RESOURCES" />
+        timestamp="26112715052601"
+        verifier="METHOD_ADDED" >
         <artifact
             location="C:\Users\Jason\Documents\GitHub\Project1\hw02-fragments-team2\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
             type="DEX" />

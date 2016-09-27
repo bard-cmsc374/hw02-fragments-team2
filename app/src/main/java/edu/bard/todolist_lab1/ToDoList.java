@@ -30,7 +30,7 @@ public class ToDoList extends Activity {
 
         // Get references to UI widgets
         mEditText = (EditText) findViewById(R.id.myEditText);
-        mItemButton = (Button) findViewById(R.id.addButton);
+        mItemButton = (Button) findViewById(R.id.add_button);
         mListView = (ListView) findViewById(R.id.myListView);
 
         // Create the ArrayList and the ArrayAdapter

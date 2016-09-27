@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Sep 26 20:40:04 EDT 2016
+#Mon Sep 26 21:01:50 EDT 2016
 210.set=ANDROID_RESOURCE
 14.set=DEX
 180.file=C\:\\Users\\Jason\\Documents\\GitHub\\Project1\\hw02-fragments-team2\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png

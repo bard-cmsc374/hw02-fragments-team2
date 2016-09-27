@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Sep 26 20:49:17 EDT 2016
+#Mon Sep 26 21:01:19 EDT 2016
 175.set=ANDROID_RESOURCE
 122.file=C\:\\Users\\Jason\\Documents\\GitHub\\Project1\\hw02-fragments-team2\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-v21\\abc_ratingbar_small_material.xml
 60.set=ANDROID_RESOURCE
