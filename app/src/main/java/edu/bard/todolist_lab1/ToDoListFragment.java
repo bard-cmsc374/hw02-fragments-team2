@@ -2,6 +2,7 @@ package edu.bard.todolist_lab1;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
+import android.support.v4.app.FragmentManager;
 import android.text.Editable;
 import android.text.TextWatcher;
 import android.util.Log;
@@ -38,6 +39,11 @@ public class ToDoListFragment extends Fragment {
             @Override
             public void onClick(View view) {
                 Log.i("Added Note",mTitleField.getText().toString());
+                /*
+                Bundle bundle = new Bundle();
+                bundle.putString("addednote", mTitleField.getText().toString());
+                mfragment.setArguments(bundle); //data being send to SecondFragment
+                */
             }
         });
 

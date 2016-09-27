@@ -21,5 +21,13 @@ public class ToDoListActivity extends FragmentActivity {
                     .add(R.id.fragment_container, fragment)
                     .commit();
         }
+
+        Fragment fragmentListView = fm.findFragmentById(R.id.fragment_container_listview);
+        if(fragmentListView==null){
+            fragmentListView=new ToDoListViewFragment();
+            fm.beginTransaction()
+                    .add(R.id.fragment_container_listview,fragmentListView)
+                    .commit();
+        }
     }
 }
