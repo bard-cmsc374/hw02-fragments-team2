@@ -12,6 +12,8 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.EditText;
 
+import java.util.UUID;
+
 /**
  * Created by Jason on 9/26/2016.
  */
@@ -20,13 +22,21 @@ public class ToDoListFragment extends Fragment {
     private EditText mTitleField;
     private Button mAddButton;
 
+    private static final String ARG_NOTE_ID = "note_id";
+
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
     }
 
+    public static ToDoListFragment newInstance(UUID noteId){
+        Bundle args = new Bundle();
+        args.putSerializable(ARG_NOTE_ID, noteId);
 
-
+        ToDoListFragment fragment = new ToDoListFragment();
+        fragment.setArguments(args);
+        return fragment;
+    }
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
