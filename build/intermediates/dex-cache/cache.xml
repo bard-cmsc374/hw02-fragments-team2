@@ -2,18 +2,88 @@
 <items version="2" >
 
     <item
-        jar="/home/sven/AndroidStudioProjects/ToDoList_lab1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
+        jar="/Users/marysia/Desktop/hw02-fragments-team2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
         revision="24.0.0"
-        sha1="4a63887e622b74c0a36618c47005a83fcd38d6d7">
-        <dex dex="/home/sven/AndroidStudioProjects/ToDoList_lab1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ea1ffa2924c5d0704e8c51f83325d791b3d92742/classes.dex" />
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/marysia/Desktop/hw02-fragments-team2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_16dab6cb21dc6bb06c2bdf3410af9a6c37d09aaa.jar" />
     </item>
     <item
-        jar="/home/sven/AndroidStudioProjects/ToDoList_lab1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
+        jar="/Users/marysia/Desktop/hw02-fragments-team2/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
         revision="24.0.0"
-        sha1="9d9fefbf934462157625a74329e9f52b060c2db4">
-        <dex dex="/home/sven/AndroidStudioProjects/ToDoList_lab1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4a49d0c5c2b0f52460175ea76e5e60037fe3694b/classes.dex" />
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/marysia/Desktop/hw02-fragments-team2/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_1eafe12a005bd83fbaed67f13574d3ac8b8b9143.jar" />
+    </item>
+    <item
+        jar="/Users/marysia/Desktop/hw02-fragments-team2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/marysia/Desktop/hw02-fragments-team2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_d53b2cad2e1f7cf166ecd3333f10afa6a6cd40e9.jar" />
+    </item>
+    <item
+        jar="/Users/marysia/Desktop/hw02-fragments-team2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/marysia/Desktop/hw02-fragments-team2/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_3340163c90746f12bac840badc540e4cd797b7d7.jar" />
+    </item>
+    <item
+        jar="/Users/marysia/Desktop/hw02-fragments-team2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/marysia/Desktop/hw02-fragments-team2/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_48e680dbc0c16e633882c8150d9b6d7ad107746b.jar" />
+    </item>
+    <item
+        jar="/Users/marysia/Desktop/hw02-fragments-team2/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/marysia/Desktop/hw02-fragments-team2/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_8580564789ab7f825f6991f75fa6570374255ba3.jar" />
+    </item>
+    <item
+        jar="/Users/marysia/Desktop/hw02-fragments-team2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/marysia/Desktop/hw02-fragments-team2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_0a5d1dfeb6e9ec856a2c2dd40815ef28298053e5.jar" />
+    </item>
+    <item
+        jar="/Users/marysia/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/marysia/Desktop/hw02-fragments-team2/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_4b843b41c0fbf5a3ba3d7633e7774371b7524356.jar" />
+    </item>
+    <item
+        jar="/Users/marysia/Desktop/hw02-fragments-team2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/marysia/Desktop/hw02-fragments-team2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_d72deb156963f8864fd0a74b6c2a9ff05447fc02.jar" />
+    </item>
+    <item
+        jar="/Users/marysia/Desktop/hw02-fragments-team2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/marysia/Desktop/hw02-fragments-team2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_69d23535cd940ac084ce18c934a3e3f3f5861e2d.jar" />
+    </item>
+    <item
+        jar="/Users/marysia/Desktop/hw02-fragments-team2/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/marysia/Desktop/hw02-fragments-team2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_2fa9e874c260a4262fc4f1f0b8d9e989af5b036d.jar" />
+    </item>
+    <item
+        jar="/Users/marysia/Desktop/hw02-fragments-team2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/marysia/Desktop/hw02-fragments-team2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_0e4a50de53e1abb2da72f901224ff3374155329f.jar" />
     </item>
 
 </items>
