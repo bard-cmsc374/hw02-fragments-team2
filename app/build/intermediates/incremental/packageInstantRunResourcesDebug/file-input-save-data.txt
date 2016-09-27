@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Sep 26 21:34:45 EDT 2016
+#Mon Sep 26 22:18:17 EDT 2016
 175.set=ANDROID_RESOURCE
 122.file=C\:\\Users\\Jason\\Documents\\GitHub\\Project1\\hw02-fragments-team2\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color-v23\\abc_tint_default.xml
 60.set=ANDROID_RESOURCE
