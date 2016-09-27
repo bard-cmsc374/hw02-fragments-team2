@@ -10,12 +10,12 @@ import java.util.UUID;
 
 public class ToDoListActivity extends FragmentActivity {
     private static final String EXTRA_NOTE_ID = "edu.bard.todolist_lab1.note_id";
-
+    /*
     @Override
     protected Fragment createFragment(){
         UUID noteId = (UUID) getIntent().getSerializableExtra(EXTRA_NOTE_ID);
         return ToDoListFragment.newInstance(noteId);
-    }
+    }*/
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

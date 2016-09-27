@@ -4,26 +4,26 @@
     density="560dpi"
     format="8"
     plugin-version="2.2.0"
-    timestamp="28367107146300"
+    timestamp="30766244486254"
     token="620452657315423857"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="161" />
+        duration="281" />
     <task
         name="instant-run-dex"
-        duration="0" />
+        duration="576" />
     <task
         name="instant-run-transform"
-        duration="57" />
+        duration="73" />
     <task
         name="verifier"
-        duration="3" />
+        duration="5" />
 
     <artifact
-        location="C:\Users\Jason\Documents\GitHub\Project1\hw02-fragments-team2\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
-        type="DEX" />
+        location="C:\Users\Jason\Documents\GitHub\Project1\hw02-fragments-team2\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
 
     <build
         timestamp="26046901877703"
@@ -33,7 +33,7 @@
             type="MAIN" />
     </build>
     <build
-        timestamp="28058262154774"
+        timestamp="30668467265832"
         verifier="R_CLASS_CHANGE" >
         <artifact
             location="C:\Users\Jason\Documents\GitHub\Project1\hw02-fragments-team2\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
@@ -41,13 +41,16 @@
         <artifact
             location="C:\Users\Jason\Documents\GitHub\Project1\hw02-fragments-team2\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
             type="DEX" />
-    </build>
-    <build
-        timestamp="28367107146300"
-        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\Jason\Documents\GitHub\Project1\hw02-fragments-team2\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
             type="DEX" />
+    </build>
+    <build
+        timestamp="30766244486254"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Jason\Documents\GitHub\Project1\hw02-fragments-team2\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
     </build>
 
 </instant-run>
