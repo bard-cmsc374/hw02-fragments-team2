@@ -4,17 +4,11 @@ package edu.bard.todolist_lab1;
  */
 //import java.util.ArrayList;
 
-//import android.app.Activity;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentActivity;
 import android.support.v4.app.FragmentManager;
 import android.util.Log;
-//import android.view.View;
-//import android.widget.ArrayAdapter;
-//import android.widget.Button;
-//import android.widget.EditText;
-//import android.widget.ListView;
 
 public class ToDoList extends FragmentActivity {
     public static String TAG = "todolab";
@@ -25,14 +19,24 @@ public class ToDoList extends FragmentActivity {
         setContentView(R.layout.main);
 
         FragmentManager fm = getSupportFragmentManager();
-        Fragment fragment = fm.findFragmentById(R.id.list_fragment_container);
+        Fragment fragment1 = fm.findFragmentById(R.id.button_fragment_container);
+        Fragment fragment2 = fm.findFragmentById(R.id.list_fragment_container);
 
-        if (fragment == null){
-            fragment = new ListFragment();
+        if (fragment1 == null){
+            fragment1 = new ButtonFragment();
             fm.beginTransaction()
-                    .add(R.id.list_fragment_container, fragment)
+                    .add(R.id.button_fragment_container, fragment1)
                     .commit();
         }
+
+        if (fragment2 == null){
+            fragment2 = new ListFragment();
+            fm.beginTransaction()
+                    .add(R.id.list_fragment_container, fragment2)
+                    .commit();
+        }
+
+
 
         Log.i(TAG, "Entered onCreate");
     }
