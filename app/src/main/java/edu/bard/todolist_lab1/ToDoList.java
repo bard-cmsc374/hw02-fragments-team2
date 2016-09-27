@@ -1,6 +1,6 @@
 package edu.bard.todolist_lab1;
 /*
-  Most basic Todo List in one activity, no fragments.
+  Most basic Todo List in two fragments.
  */
 //import java.util.ArrayList;
 
