@@ -1,4 +1,4 @@
-#Mon Sep 26 21:01:49 EDT 2016
+#Tue Sep 27 19:09:09 EDT 2016
 base.0=C\:\\Users\\Jason\\Documents\\GitHub\\Project1\\hw02-fragments-team2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5fd5cfce0ff94e70ddb17bf3a6e9a84dc05e3f79
 renamed.1=classes.dex
 renamed.0=classes2.dex
