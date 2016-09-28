@@ -73,7 +73,7 @@ public class ToDoListAddFragment extends Fragment {
                 String noteString = mTitleField.getText().toString();
                 Log.i("Added Note",noteString);
                 //sendResult(Activity.RESULT_OK, noteString);
-                mTitleField.setText(" ");
+                mTitleField.setText("");
                 mCallback.onArticleSelected(noteString);
 
             }

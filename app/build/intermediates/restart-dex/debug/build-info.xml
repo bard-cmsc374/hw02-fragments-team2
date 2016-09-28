@@ -4,22 +4,22 @@
     density="560dpi"
     format="8"
     plugin-version="2.2.0"
-    timestamp="110825837257779"
+    timestamp="110974430035458"
     token="620452657315423857"
     verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="427" />
+        duration="475" />
     <task
         name="instant-run-dex"
-        duration="533" />
+        duration="420" />
     <task
         name="instant-run-transform"
-        duration="87" />
+        duration="33" />
     <task
         name="verifier"
-        duration="3" />
+        duration="4" />
 
     <artifact
         location="C:\Users\Jason\Documents\GitHub\Project1\hw02-fragments-team2\app\build\intermediates\reload-dex\debug\classes.dex"
@@ -62,6 +62,13 @@
     </build>
     <build
         timestamp="110825837257779"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Jason\Documents\GitHub\Project1\hw02-fragments-team2\app\build\intermediates\builds\debug\110825837257779\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="110974430035458"
         verifier="COMPATIBLE" >
         <artifact
             location="C:\Users\Jason\Documents\GitHub\Project1\hw02-fragments-team2\app\build\intermediates\reload-dex\debug\classes.dex"
