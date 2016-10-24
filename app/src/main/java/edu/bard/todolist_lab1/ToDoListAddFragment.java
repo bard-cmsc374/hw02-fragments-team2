@@ -22,7 +22,7 @@ public class ToDoListAddFragment extends Fragment {
     private EditText mTitleField;
     private Button mAddButton;
 
-    OnHeadlineSelectedListener mCallback;
+    OnHeadlineSelectedListener mCallback; // XX need documentation here and at the method
 
     public interface OnHeadlineSelectedListener{
         public void onArticleSelected(String string);

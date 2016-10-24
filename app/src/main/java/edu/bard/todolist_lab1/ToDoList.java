@@ -1,6 +1,8 @@
 package edu.bard.todolist_lab1;
 /*
   Most basic Todo List in one activity, no fragments.
+
+  XX This class is unused...remove it!
  */
 import java.util.ArrayList;
 
@@ -24,6 +26,7 @@ public class ToDoList extends Activity {
     @Override
     public void onCreate(Bundle stuff) {
         super.onCreate(stuff);
+        if (stuff != null) return;
 
         // Inflate your view
         setContentView(R.layout.main); // Extracts resources, autogenerates R.java from XML file

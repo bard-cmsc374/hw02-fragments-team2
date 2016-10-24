@@ -1,5 +1,48 @@
 package edu.bard.todolist_lab1;
+/*
 
+
+CMSC 374
+HW #2 Fragments: Feedback
+
+Names: Marysia and Jason
+
+      Rubric
+----------------------------------------------------------
+40	1. App functions correctly from end user perspective.
+20	2. Fragments are correctly created.
+10	3. Fragments share information on the adapter arraylist.
+5	4. Code is clearly commented.
+20	5. Code is readable and well constructed.
+
+Score: 95
+
+
+----------------
+
+Comments
+
+My comments in your code are marked with XX in a comment.
+
+
+1. App functions correctly from end user perspective. YES, resources used, too.
+
+2. Fragments are correctly created. YES and managed
+
+3. Fragments share information on the adapter arraylist.
+
+You allow the activity to call the list's update, which is fine for
+this exercise.
+
+4. Code is clearly commented.
+You ignore commenting important methods.  Also leave an unused class
+in the code base.
+
+5. Code is readable and well constructed.
+Yes...good throughout.
+
+
+ */
 import android.app.Activity;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentActivity;

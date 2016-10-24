@@ -85,7 +85,7 @@ public class ToDoListViewFragment extends Fragment {
         updateUI();
     }
 
-    private void updateUI(){
+    private void updateUI(){  // XX doc???
         if(mAdapter == null){
             mAdapter = new ArrayAdapter<String>(this.getActivity(), android.R.layout.simple_list_item_1, mToDoItems);
             mListView.setAdapter(mAdapter);
